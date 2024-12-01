@@ -12,11 +12,11 @@ Apply object-oriented programming, version control, testing, and quality control
 |------------|------|-----------|
 | 2024-11-12 | [Object-Oriented Programming](lectures/lecture1) | [Python Classes](https://docs.python.org/3.12/tutorial/classes.html) |
 | 2024-11-14 | [Object-Oriented Programming](lectures/lecture1) | [Python Classes](https://docs.python.org/3.12/tutorial/classes.html) |
-| 2024-11-19 | [Module and Package](lectures/lecture3) | [Python Modules and Packages](https://docs.python.org/3.12/tutorial/modules.html) |
-| 2024-11-21 | [Collaborative Features of Version Control](lectures/lecture4) | [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) <br/> [Software Development Life Cycle](https://raygun.com/blog/software-development-life-cycle/) |
+| 2024-11-19 | Module and Package | [Python Modules and Packages](https://docs.python.org/3.12/tutorial/modules.html) |
+| 2024-11-21 | Collaborative Features of Version Control | [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) <br/> [Software Development Life Cycle](https://raygun.com/blog/software-development-life-cycle/) |
 | 2024-11-26 | Project Idea Presentation | - |
-| 2024-11-28 | [Python Testing](lectures/lecture5) |[Unit testing framework](https://docs.python.org/3.12/library/unittest.html) <br/> [Python 3 Testing](https://www.blog.pythonlibrary.org/2016/07/07/python-3-testing-an-intro-to-unittest/) |
-| 2024-12-03 | [Testing and Continuous Integration](lectures/lecture6) | [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <br/> [About continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration)  |
+| 2024-11-28 | Python Testing |[Unit testing framework](https://docs.python.org/3.12/library/unittest.html) <br/> [Python 3 Testing](https://www.blog.pythonlibrary.org/2016/07/07/python-3-testing-an-intro-to-unittest/) |
+| 2024-12-03 | Testing and Continuous Integration | [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <br/> [About continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration)  |
 | 2024-12-05 | [Error and Exceptions](lectures/lecture7) | [Errors and Exceptions](https://docs.python.org/3.12/tutorial/errors.html) |
 | 2024-12-10 | [Packaging and Distributing Projects](lectures/lecture8) | [Python Packaging](https://packaging.python.org/guides/distributing-packages-using-setuptools/) |
 | 2024-12-12 | Quiz | - |
@@ -27,8 +27,8 @@ Apply object-oriented programming, version control, testing, and quality control
 |     | Topic   | Lab Date | Due Date |
 |-----|-------------|----------|----------|
 | [Lab 1](labs/lab1) | Object-Oriented Programming | 2024-11-18 | 2024-11-25 23:59 |
-| [Project step 1](project/step1) | Module, Package, and Version Control | 2024-11-25 | 2024-12-02 23:59 |
-| [Project step 2](project/step2) | Testing | 2024-12-02 | 2024-12-09 23:59 |
+| [Project step 1](project/step1) | Module, Package, and Version Control | 2024-11-25 | 2024-12-03 23:59 |
+| [Project step 2](project/step2) | Testing | 2024-12-03 | 2024-12-09 23:59 |
 | [Project step 3](project/step3) | Continuous Integration, Errors and Exceptions | 2024-12-09 | 2024-12-12 23:59 |
 
 
