@@ -92,3 +92,27 @@ This module manages collections of vehicles and provides fleet-related operation
 To use this package, create instances of `User`, `Vehicle`, and `Fleet` to manage users, vehicles, and fleets. Utilize the `Booking` module to create and manage reservations. See the provided test scripts for implementation examples.
 
 ---
+=======
+# `car_sharing_system` Package
+### Author: Tianmu Wang, Zifei Chen
+
+The `car_sharing_system` Package is a modular framework for managing a car-sharing platform. It is divided into two sub-packages: **booking_management** and **vehicle_management**.
+
+---
+
+### `booking_management` Sub-package
+#### `user` Module
+This module manages user accounts and ensures data integrity by avoiding duplicates.
+
+**Methods**
+1. `__init__(name, email)`:
+   - Create a new user while ensuring no duplicate entries based on name and email.
+
+2. `get_all_users()`:
+   - Retrieve a list of all registered users.
+
+3. `update_details(name=None, email=None)`:
+   - Update user details (name or email) with duplication checks.
+
+4. `find_user_by_email(email)`:
+   - Retrieve a user by their email address.
